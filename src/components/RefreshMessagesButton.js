@@ -1,6 +1,7 @@
 const RefreshMessagesButton = () => {
+  const refresh = () => window.location.reload(true)
   return (
-    <button>Refresh Messages</button>
+    <button onClick={refresh}>Refres Messages</button>
   )
 }
 

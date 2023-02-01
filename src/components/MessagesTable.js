@@ -14,7 +14,6 @@ const MessagesTable = () => {
       setAllMessagesData(data.allMessages);
     }
   }, [data]);
-  console.log('here we go', { allMessagesData })
   return (
     <table>
       <thead>
