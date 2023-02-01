@@ -1,5 +1,14 @@
 # Roadmap
 Layout
+Styling
+Tests
+Fix table to display all data
+Add form validation
+Populate data from form
+
+# Main Struggles
+Writing data 
+Setting state from form
 
 # Getting Started with Create React App
 
